@@ -3,7 +3,7 @@
 ## Dataset
 [kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?datasetId=55151&sortBy=voteCount&select=olist_order_items_dataset.csv)  
 Brazilian E-Commerce Public Dataset by Olist - a SaaS (Software as a Service) technology company.  
-Observation: 71,634 delivered orders
+Observation: 71,634 delivered orders  
 Period: 8/2017 - 7/2018
 
 ## Project Objective
